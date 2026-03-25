@@ -16,7 +16,7 @@ Design the API contract (endpoints, request/response structure, data models) *be
 
 ## 2. Separation of Concerns (Layered Architecture)
 
-MuleSoft popularized a three-layer model:
+ Popularized a three-layer model:
 
 | Layer | Purpose | Example |
 |---|---|---|
